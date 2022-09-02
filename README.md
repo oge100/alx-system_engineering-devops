@@ -1,1 +1,1 @@
-empty file called hello
+Display current directory contents, including hidden files (starting with .)
