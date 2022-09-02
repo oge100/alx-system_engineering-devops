@@ -1,1 +1,1 @@
-Task 4. 4 empty
+ script that adds execute permission to the owner of the file hello
