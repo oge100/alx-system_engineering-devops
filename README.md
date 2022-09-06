@@ -1,1 +1,1 @@
-First script on Hello world
+Shell variables
